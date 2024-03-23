@@ -1,4 +1,4 @@
-# Quaalidadew de Vida:
+# Qualidade de Vida:
 
 Um grupo de estudantes de Educação Física está fazendo um TCC com o tema:
 “Qualidade de Vida dos profissionais de TI”. Eles estão passando de sala em sala
